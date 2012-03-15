@@ -15,6 +15,8 @@ Usage is ridiculously simple:
 * Add `TSTime.c` and `TSTime.h` to your project.
 * Write some code like so:
 
+```
+
     #include "TSTime.h"
 
     - (void)someVexinglySlowMethod:(id)someStandinParameterOfNoUseWhatsoever {
@@ -30,3 +32,4 @@ Usage is ridiculously simple:
         // instance.
         TSTimeDestroy(&t);
     }
+```
