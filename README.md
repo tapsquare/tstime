@@ -2,7 +2,7 @@
 ## A very simple time profiling API.
 
 You probably don't need this code. You should probably be using Instruments to
-profile your app. For those occasions when you absolutely just have to figure
+profile your app. For those occasions when you absolutely, postively *must* figure
 out which function or method call is taking too long (and how long), TSTime can
 save you some, uh, time.
 
